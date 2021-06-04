@@ -1,1 +1,1 @@
-# Coding-Standars-Albin-Arias-
+# CodingStandards
