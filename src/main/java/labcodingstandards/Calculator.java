@@ -8,7 +8,8 @@ import java.util.Scanner;
 
 /**
  * @author
- *
+ *CHECKSTYLE: OFF
+ *CHECKSTYLE: ON
  */
 public class Calculator {	
 	
